@@ -104,4 +104,5 @@ ResearchGate: [https://www.researchgate.net/profile/Puwen-Tan](https://www.resea
 
 Google Scholar: [Puwen Tan](https://scholar.google.co.uk/citations?hl=en&pli=1&user=WnzYYR4AAAAJ)
 
-Academic transcripts: [Bachelor](./bachelor transcript.jpg)
+Academic transcripts: [English version](./bachelor transcript.jpg) [Chinese version (中文成绩单)](./transcript_Chinese.jpg)
+
