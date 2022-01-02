@@ -4,18 +4,8 @@ PhD in bioinformaticas, Southern Medical University, Guangdong, China, 510515
 
 Email: bioinfo_wen@163.com
 
-
-
-
-#### Research Interests:
-
-##### Single-cell omics
-
-##### Machine learning
-
-##### Software developing
-
-##### Stem cell biology
+#### Summary:
+Puwen Tan is a highly-motivated bioinformatician with strong interest in uncovering novel mechanisms of disease. Proficient in a variety of skills including but not limited to single-cell RNA-seq analysis, data visualization and R package development.
 
 #### Education:
 
@@ -25,8 +15,22 @@ Email: bioinfo_wen@163.com
 
 2011 - 2016, Bachelor of Biotechnology (biomedical software engineering), Harbin Medical University, China
 
+#### Skills:
 
 
+
+
+
+
+#### Research Interests:
+
+Single-cell omics
+
+Machine learning
+
+Software developing
+
+Stem cell biology
 
 
 
