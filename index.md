@@ -24,17 +24,19 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in uncover
 
 
 
-### Academic projects:
+### Academic studies:
 
 #### I. A computational framework for transcription factor activity analysis (submitted to *Nat Commun*).
-\* First author, mainly responsible for project design, software development, data analysis and manuscript writing.
 
-Software from this project was deposited in GitHub: [scATFR](https://github.com/hmutpw/scATFR) and [PUIC](https://github.com/hmutpw/PUIC/)
+\* First author, mainly responsible for study design, software development, data analysis, visualization and manuscript writing. Software from this project was deposited in GitHub: [scATFR](https://github.com/hmutpw/scATFR) and [PUIC](https://github.com/hmutpw/PUIC/)
 
-#### Project II. Constructing the RNA subcellular localization landscape of embryonic stem cells (Manuscript in preparation)
-\* First author, mainly responsible for data analysis and writting manuscript.
+#### Project II. Constructing the RNA subcellular localization landscape of embryonic stem cells (Manuscript in preparation).
+
+\* First author, mainly responsible for data analysis, visualization and manuscript writing.
 
 #### III. Single-cell sequencing reveals the critical role of alternative splicing in the hematopoietic stem cell formation (2022 *Sci Adv*)
+
+\* First author, mainly responsible for visualization, data analysis, and visualization. The code was deposited in GitHub:[scAS](https://github.com/hmutpw/scAS/)
 
 #### IV. *hnRNPLL* controls pluripotency exit of embryonic stem cells by modulating alternative splicing of *Tbx3* and *Bptf* (2021 *EMBO J*)
 
