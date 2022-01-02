@@ -26,8 +26,8 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in uncover
 
 #### Academic projects:
 
-##### Project I.
-A computational framework for transcription factor activity analysis (submitted to *Nat Commun*)
+##### A computational framework for transcription factor activity analysis (submitted to *Nat Commun*).
+
 Software from this project was deposited in GitHub: [scATFR](https://github.com/hmutpw/scATFR) and [PUIC](https://github.com/hmutpw/PUIC/)
 
 
