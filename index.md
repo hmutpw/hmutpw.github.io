@@ -6,11 +6,11 @@ Email: bioinfo_wen@163.com
 
 Tel: (+86) 182 4606 0545
 
-### Summary:
+### 1. Summary:
 
-Puwen Tan is a highly-motivated bioinformatician with strong interest in developing methods to uncover the cell identity from multiple perspectives. He is proficient in a variety of skills including **single-cell RNA-seq analysis**, **data visualization** and **R package development**. For the past 5 years, he focused on exploring the mechanism of hematopoietic stem cell differentiation (2017 *Nat Commun*, 2018 *Autophagy*, 2021 *Cell Stem Cell*, and 2022 *Sci Adv*) using bioinformatics methods.
+Puwen Tan is a highly-motivated bioinformatician with strong interest in developing methods to uncover the cell identity from multiple perspectives. He is proficient in a variety of skills including **single-cell RNA-seq analysis**, **data visualization** and **R package development**. For the past 5 years, he mainly focused on exploring the cell heterogeneity of hematopoietic stem cells (2017 *Nat Commun*, 2018 *Autophagy*, 2021 *Cell Stem Cell*, and 2022 *Sci Adv*) using bioinformatics methods.
 
-### Education:
+### 2. Education:
 
 2019 - 2022, PhD in bioinformaticas, Southern Medical University, China
 
@@ -18,13 +18,13 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in develop
 
 2011 - 2016, Bachelor of Biotechnology (biomedical software engineering), Harbin Medical University, China
 
-### Skills:
+### 3. Skills:
 
 1. Extensive experience in analysing next generation sequencing (including bulk and single-cell RNA-seq) and long read sequencing (eg, Nanopore-seq) data.
 2. Proficient in using R language for data analysis, visualization and software development.
 3. Fluent with English writing and speaking.
 
-### Academic experience:
+### 4. Academic experience:
 
 Here lists several studies for the last 5 years:
 
@@ -56,7 +56,7 @@ Here lists several studies for the last 5 years:
 
 ![Graphical Abstract](./Figure_eng.png)
 
-### Research Interests:
+### 5. Research Interests:
 
 Single-cell omics
 
@@ -66,10 +66,7 @@ Software developing
 
 Stem cell biology
 
-
-
-
-### Full list of Publications:
+### 6. Full list of Publications:
 
 #### 2022
 1. Fang Wang†, **Puwen Tan†**, Pengcheng Zhang†, Yue Ren†, Jie Zhou, Yunqiao Li, Siyuan Hou, Shuaili Li, Linlin Zhang, Yanni Ma, Chaojie Wang, Wanbo Tang, Xiaoshuang Wang, Yue Huo, Yongfei Hu, Tianyu Cui, Chao Niu, Dong Wang, Bing Liu, Yu Lan, Jia Yu. Single-cell architecture and functional requirement of alternative splicing during hematopoietic stem cell formation. ***Sci Adv***. 2022. (In press)
