@@ -24,7 +24,10 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in uncover
 
 
 
+#### Academic experience:
 
+
+##### Graphical Abstract
 
 ![Graphical Abstract](./Figure_eng.png)
 
