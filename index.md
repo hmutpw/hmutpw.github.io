@@ -13,8 +13,9 @@ Email: bioinfo_wen@163.com
 
 ##### Machine learning
 
+##### Software developing
+
 ##### Stem cell biology
-Hematopoietic stem cell (HSC) differentiation, Embryonic stem cell (ESC).
 
 #### Education:
 
