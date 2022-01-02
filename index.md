@@ -42,11 +42,13 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in uncover
 
 \* Co-first author, mainly responsible for data analysis and visualization.
 
-#### V. Depicting the dynamic changes of autophagy at transcriptome level during the human stem cell differentiation (2018, 2019 *Autophagy*)
+#### V. Depicting the dynamic activity of autophagy at transcriptome level during the human stem cell differentiation (2018, 2019 *Autophagy*)
 
 \* First author, mainly responsible for data analysis, visualization and manuscript writing.
 
-#### VI. 
+#### VI. Construction of the RNA subcellular localization resources. (2017, 2021 *Nucleic Acids Res*)
+
+\* Co-first author, mainly responsible for data collecting, visualization.
 
 #### Graphical Abstract
 
