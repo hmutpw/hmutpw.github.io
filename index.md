@@ -102,5 +102,5 @@ Stem cell biology
 
 ResearchGate: [https://www.researchgate.net/profile/Puwen-Tan](https://www.researchgate.net/profile/Puwen-Tan)
 
-Google Scholar: [Puwen Tan] (https://scholar.google.co.uk/citations?hl=en&pli=1&user=WnzYYR4AAAAJ)
+Google Scholar: [Puwen Tan](https://scholar.google.co.uk/citations?hl=en&pli=1&user=WnzYYR4AAAAJ)
 
