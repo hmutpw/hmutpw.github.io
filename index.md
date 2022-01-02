@@ -26,6 +26,17 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in uncover
 
 #### Academic experience:
 
+##### I. A computational framework for transcription factor activity analysis (submitted to *Nat Commun*)
+
+##### II. Constructing the RNA subcellular localization landscape of embryonic stem cells (manuscript in preparation)
+
+##### III. Single-cell sequencing reveals the critical role of alternative splicing in the hematopoietic stem cell formation (2022 *Sci Adv*)
+
+##### IV. *hnRNPLL* controls pluripotency exit of embryonic stem cells by modulating alternative splicing of *Tbx3* and *Bptf* (2021 *EMBO J*)
+
+##### V. 
+
+##### VI. 
 
 ##### Graphical Abstract
 
