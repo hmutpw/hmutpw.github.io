@@ -6,7 +6,7 @@ Email: bioinfo_wen@163.com
 
 ### Summary:
 
-Puwen Tan is a highly-motivated bioinformatician with strong interest in uncovering novel mechanisms of disease. Proficient in a variety of skills including but not limited to single-cell RNA-seq analysis, data visualization and R package development.
+Puwen Tan is a highly-motivated bioinformatician with strong interest in developing methods to uncover the cell identity from multi-omics data. He is proficient in a variety of skills including single-cell RNA-seq analysis, data visualization and R package development. For the past 5 years, he focused on exploring the mechanism of hematopoietic stem cell differentiation (2017 Nat Commun, 2018 Autophagy, 2021 Cell Stem Cell, and 2022 Sci Adv), and exploring the transcript specifity at subcellular level (2017, 2018 Nucleic Acids Res).
 
 ### Education:
 
@@ -22,15 +22,13 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in uncover
 2. Proficient in using R language for data analysis, visualization and software development.
 3. 
 
-
-
 ### Academic experience:
 
 Here lists several studies for the last 5 years:
 
 #### I. A computational framework for transcription factor activity analysis (submitted to ***Nat Commun***).
 
-\* First author, mainly responsible for **study design**, **software development**, **bioinformatics analysis**, **visualization** and **manuscript writing**. Software from this project was deposited in GitHub: [scATFR](https://github.com/hmutpw/scATFR) and [PUIC](https://github.com/hmutpw/PUIC/)
+\* First author, mainly responsible for **study design**, **software development**, **bioinformatics analysis**, **visualization** and **manuscript writing**. Software from this project were deposited in GitHub: [scATFR](https://github.com/hmutpw/scATFR) and [PUIC](https://github.com/hmutpw/PUIC/).
 
 #### II. Constructing the RNA subcellular localization landscape of embryonic stem cells (Manuscript in preparation).
 
@@ -38,7 +36,7 @@ Here lists several studies for the last 5 years:
 
 #### III. Single-cell sequencing reveals the critical role of alternative splicing in the hematopoietic stem cell formation (2022 ***Sci Adv***)
 
-\* Co-first author, mainly responsible for **bioinformatics analysis**, **visualization** and **manuscript writing**. The code was deposited in GitHub:[scAS](https://github.com/hmutpw/scAS/)
+\* Co-first author, mainly responsible for **bioinformatics analysis**, **visualization** and **manuscript writing**. The code was deposited in GitHub:[scAS](https://github.com/hmutpw/scAS/).
 
 #### IV. *hnRNPLL* controls pluripotency exit of embryonic stem cells by modulating alternative splicing of *Tbx3* and *Bptf* (2021 ***EMBO J***)
 
