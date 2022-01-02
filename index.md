@@ -4,6 +4,9 @@ PhD in bioinformaticas, Southern Medical University, Guangdong, China, 510515
 
 Email: bioinfo_wen@163.com
 
+
+
+
 #### Research Interests:
 
 ##### Single-cell omics
@@ -11,7 +14,7 @@ Email: bioinfo_wen@163.com
 ##### Machine learning
 
 ##### Stem cell biology
-
+Hematopoietic stem cell (HSC) differentiation, Embryonic stem cell (ESC).
 
 #### Education:
 
@@ -20,6 +23,12 @@ Email: bioinfo_wen@163.com
 2016 - 2019, Master of Biomedical Engineering (bioinformatics), Harbin Medical University, China
 
 2011 - 2016, Bachelor of Biotechnology (biomedical software engineering), Harbin Medical University, China
+
+
+
+
+
+
 
 #### Full list of Publications:
 
