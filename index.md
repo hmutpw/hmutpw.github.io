@@ -1,5 +1,11 @@
 # Puwen Tan
-### Full list of Publications:
+
+
+
+
+
+
+#### Full list of Publications:
 
 ##### 2022
 1. Fang Wang†, **Puwen Tan†**, Pengcheng Zhang†, Yue Ren†, Jie Zhou, Yunqiao Li, Siyuan Hou, Shuaili Li, Linlin Zhang, Yanni Ma, Chaojie Wang, Wanbo Tang, Xiaoshuang Wang, Yue Huo, Yongfei Hu, Tianyu Cui, Chao Niu, Dong Wang, Bing Liu, Yu Lan, Jia Yu. Single-cell architecture and functional requirement of alternative splicing during hematopoietic stem cell formation. ***Sci Adv***. 2022. (In press)
@@ -26,7 +32,7 @@
 12. Ying Yi, Yue Zhao, Chunhua Li, Lin Zhang, Huiying Huang, Yana Li, Lanlan Liu, Ping Hou, Tianyu Cui, **Puwen Tan**, Yongfei Hu, Ting Zhang, Yan Huang, Xiaobo Li, Jia Yu, Dong Wang. RAID v2.0: an updated resource of RNA-associated interactions across organisms. ***Nucleic Acids Res***. 2017 Jan 4;45(D1):D115-D118. [Full-text](https://doi.org/10.1093/nar/gkw1052)
 13. Ting Zhang†, **Puwen Tan†**, Liqiang Wang†, Nana Jin†, Yana Li, Lin Zhang, Huan Yang, Zhenyu Hu, Lining Zhang, Chunyu Hu, Chunhua Li, Kun Qian, Changjian Zhang, Yan Huang, Kongning Li, Hao Lin, Dong Wang. RNALocate: a resource for RNA subcellular localizations. ***Nucleic Acids Res***. 2017 Jan 4;45(D1):D135-D138. [Full-text](https://doi.org/10.1093/nar/gkw728)
 
-##### Before 2017
+##### Before 2016
 14. Deng Wu, Yan Huang, Juanjuan Kang, Kongning Li, Xiaoman Bi, Ting Zhang, Nana Jin, Yongfei Hu, **Puwen Tan**, Lu Zhang, Ying Yi, Wenjun Shen, Jian Huang, Xiaobo Li, Xia Li, Jianzhen Xu, Dong Wang. ncRDeathDB: A comprehensive bioinformatics resource for deciphering network organization of the ncRNA-mediated cell death system. ***Autophagy***. 2015;11(10):1917-26. [Full-text](https://doi.org/10.1080/15548627.2015.1089375)
 15. Liqiang Wang, Kun Qian, Yan Huang, Nana Jin, Hongyan Lai, Ting Zhang, Chunhua Li, Chunrui Zhang, Xiaoman Bi, Deng Wu, Changliang Wang, Hao Wu, **Puwen Tan**, Jianping Lu, Liqun Chen, Kongning Li, Xia Li, Dong Wang. SynBioLGDB: a resource for experimentally validated logic gates in synthetic biology. ***Sci Rep***. 2015 Jan 28;5:8090. [Full-text](https://www.nature.com/articles/srep08090)
 16. Xiaomeng Zhang, Deng Wu, Liqun Chen, Xiang Li, Jinxurong Yang, Dandan Fan, Tingting Dong, Mingyue Liu, **Puwen Tan**, Jintian Xu, Ying Yi, Yuting Wang, Hua Zou, Yongfei Hu, Kaili Fan, Juanjuan Kang, Yan Huang, Zhengqiang Miao, Miaoman Bi, Nana Jin, Kongning Li, Xia Li, Jianzhen Xu, Dong Wang. RAID: a comprehensive resource for human RNA-associated (RNA–RNA/RNA–protein) interaction. ***RNA***. 2014 Jul;20(7):989-93. [Full-text](https://rnajournal.cshlp.org/content/20/7/989)
