@@ -22,7 +22,7 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in develop
 
 1. Extensive experience in analysing next generation sequencing (including bulk and single-cell RNA-seq) and long read sequencing (eg, Nanopore-seq) data.
 2. Proficient in using R language for data analysis, visualization and software development.
-3. 
+3. Fluent with English writing and speaking.
 
 ### Academic experience:
 
