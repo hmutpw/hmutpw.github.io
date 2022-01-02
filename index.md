@@ -1,6 +1,6 @@
-# Puwen Tan
-
 ![Puwen Tan](./Puwen Tan.png)
+
+# Puwen Tan
 
 PhD in bioinformaticas, Southern Medical University, Guangzhou, Guangdong, China, 510515
 
