@@ -22,6 +22,8 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in uncover
 
 
 
+![Graphical Abstract](https://github.com/hmutpw/hmutpw.github.io/blob/main/summary_eng.jpg)
+
 #### Research Interests:
 
 Single-cell omics
