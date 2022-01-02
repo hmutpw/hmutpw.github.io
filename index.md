@@ -24,7 +24,7 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in uncover
 
 
 
-#### Academic experience:
+#### Academic projects:
 
 ##### I. A computational framework for transcription factor activity analysis (submitted to *Nat Commun*)
 
@@ -34,7 +34,7 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in uncover
 
 ##### IV. *hnRNPLL* controls pluripotency exit of embryonic stem cells by modulating alternative splicing of *Tbx3* and *Bptf* (2021 *EMBO J*)
 
-##### V. 
+##### V. Depicting the dynamic changes of autophagy at transcriptome level during the human stem cell differentiation (2018, 2019 *Autophagy*)
 
 ##### VI. 
 
