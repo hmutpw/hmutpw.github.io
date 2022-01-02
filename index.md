@@ -1,7 +1,7 @@
 # Puwen Tan
-
-
-
+PhD in bioinformaticas, Department of bioinformatics, School of Basic Medical Sciences, Southern Medical University
+No.1023,South Shatai Road, Baiyun District, Guangzhou, Guangdong, China, 510515
+Email: bioinfo_wen@163.com
 
 
 
