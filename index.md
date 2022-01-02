@@ -1,4 +1,5 @@
-# Puwen Tan (PhD in bioinformaticas)
+# Curriculum Vitae of Puwen Tan
+
 ![Puwen Tan](./Puwen Tan.png)
 
 # Puwen Tan
