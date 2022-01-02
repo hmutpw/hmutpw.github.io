@@ -1,2 +1,2 @@
 # hmutpw.github.io
-#### 1. Full list of publication can be downloaded at [here](https://github.com/hmutpw/hmutpw.github.io/blob/main/Puwen%20Tan-publications.pdf)
+#### 1. For more information, please visit [here](https://hmutpw.github.io/)
