@@ -1,15 +1,22 @@
 # Puwen Tan
-PhD in bioinformaticas
 
-Department of bioinformatics, School of Basic Medical Sciences, Southern Medical University
-
-No.1023,South Shatai Road, Baiyun District, Guangzhou, Guangdong, China, 510515
+PhD in bioinformaticas, Southern Medical University, Guangdong, China, 510515
 
 Email: bioinfo_wen@163.com
 
+#### Full list of Publications:
 
+
+#### Education:
+
+Sep 2019 - July 2022, PhD in bioinformaticas, Southern Medical University, China
+
+Sep 2016 - July 2019, Master of Biomedical Engineering (bioinformatics), Harbin Medical University, China
+
+Sep 2011 - July 2016, Bachelor of Biotechnology (biomedical software engineering), Harbin Medical University, China
 
 #### Full list of Publications:
+
 ##### 2022
 1. Fang Wang†, **Puwen Tan†**, Pengcheng Zhang†, Yue Ren†, Jie Zhou, Yunqiao Li, Siyuan Hou, Shuaili Li, Linlin Zhang, Yanni Ma, Chaojie Wang, Wanbo Tang, Xiaoshuang Wang, Yue Huo, Yongfei Hu, Tianyu Cui, Chao Niu, Dong Wang, Bing Liu, Yu Lan, Jia Yu. Single-cell architecture and functional requirement of alternative splicing during hematopoietic stem cell formation. ***Sci Adv***. 2022. (In press)
 
