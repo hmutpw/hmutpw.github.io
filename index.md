@@ -26,9 +26,12 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in uncover
 
 #### Academic projects:
 
-##### I. A computational framework for transcription factor activity analysis (submitted to *Nat Commun*)
+##### Project I.
+A computational framework for transcription factor activity analysis (submitted to *Nat Commun*)
+Software from this project was deposited in GitHub: [scATFR](https://github.com/hmutpw/scATFR) and [PUIC](https://github.com/hmutpw/PUIC/)
 
-##### II. Constructing the RNA subcellular localization landscape of embryonic stem cells (manuscript in preparation)
+
+##### Project II. Constructing the RNA subcellular localization landscape of embryonic stem cells (Manuscript in preparation)
 
 ##### III. Single-cell sequencing reveals the critical role of alternative splicing in the hematopoietic stem cell formation (2022 *Sci Adv*)
 
