@@ -16,7 +16,7 @@ Tel: (+86) 182 4606 0545
 
 ### 2. Education:
 
-2019 - 2022, PhD in bioinformaticas, Southern Medical University, China
+2019 - 2022, PhD in bioinformatics, Southern Medical University, China
 
 2016 - 2019, Master of Biomedical Engineering (bioinformatics), Harbin Medical University, China
 
