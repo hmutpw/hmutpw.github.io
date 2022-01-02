@@ -1,8 +1,10 @@
 # Puwen Tan
 
-PhD in bioinformaticas, Southern Medical University, Guangdong, China, 510515
+PhD in bioinformaticas, Southern Medical University, Guangzhou, Guangdong, China, 510515
 
 Email: bioinfo_wen@163.com
+
+Tel: (+86) 182 4606 0545
 
 ### Summary:
 
