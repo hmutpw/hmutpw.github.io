@@ -2,7 +2,7 @@
 ### Full list of Publications:
 
 #### 2022
-1. Fang Wang†, **Puwen Tan†**, Pengcheng Zhang†, Yue Ren†, Jie Zhou, Yunqiao Li, Siyuan Hou, Shuaili Li, Linlin Zhang, Yanni Ma, Chaojie Wang, Wanbo Tang, Xiaoshuang Wang, Yue Huo, Yongfei Hu, Tianyu Cui, Chao Niu, Dong Wang, Bing Liu, Yu Lan, Jia Yu. Single-cell architecture and functional requirement of alternative splicing during hematopoietic stem cell formation. ***Sci Adv***. 2022. (In press)
+ Fang Wang†, **Puwen Tan†**, Pengcheng Zhang†, Yue Ren†, Jie Zhou, Yunqiao Li, Siyuan Hou, Shuaili Li, Linlin Zhang, Yanni Ma, Chaojie Wang, Wanbo Tang, Xiaoshuang Wang, Yue Huo, Yongfei Hu, Tianyu Cui, Chao Niu, Dong Wang, Bing Liu, Yu Lan, Jia Yu. Single-cell architecture and functional requirement of alternative splicing during hematopoietic stem cell formation. ***Sci Adv***. 2022. (In press)
 
 #### 2021
 2. Juanjuan Kang, Qiang Tang, Jun He, Le Li, Nianling Yang, Shuiyan Yu, Mengyao Wang, Yuchen Zhang, Jiahao Lin, Tianyu Cui, Yongfei Hu, **Puwen Tan**, Jun Cheng, Hailong Zheng, Dong Wang, Xi Su, Wei Chen, Yan Huang. RNAInter v4.0: RNA interactome repository with redefined confidence scoring system and improved accessibility. ***Nucleic Acids Res***. 2021 Oct 30;gkab997.[link to PMC](https://europepmc.org/article/MED/34718726)
