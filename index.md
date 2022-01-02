@@ -8,7 +8,7 @@ Tel: (+86) 182 4606 0545
 
 ### 1. Summary:
 
-Puwen Tan is a highly-motivated bioinformatician with strong interest in developing methods to uncover the cell identity from multiple perspectives. He is proficient in a variety of skills including **single-cell RNA-seq analysis**, **data visualization** and **R package development**. For the past 5 years, he mainly focused on exploring the cell heterogeneity of hematopoietic stem cells (2017 *Nat Commun*, 2018 *Autophagy*, 2021 *Cell Stem Cell*, and 2022 *Sci Adv*) using bioinformatics methods.
+**Puwen Tan** is a highly-motivated bioinformatician with strong interest in developing methods to uncover the cell identity from multiple perspectives. He is proficient in a variety of skills including **single-cell RNA-seq analysis**, **data visualization** and **R package development**. For the past 5 years, he mainly focused on exploring the cell heterogeneity of hematopoietic stem cells (2017 *Nat Commun*, 2018 *Autophagy*, 2021 *Cell Stem Cell*, and 2022 *Sci Adv*) using bioinformatics methods.
 
 ### 2. Education:
 
@@ -26,11 +26,11 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in develop
 
 ### 4. Academic experience:
 
-Here lists several studies for the last 5 years:
+Here lists main studies for the last 5 years:
 
 #### I. A computational framework for transcription factor activity analysis (submitted to ***Nat Commun***).
 
-\* First author, mainly responsible for **study design**, **software development**, **bioinformatics analysis**, **visualization** and **manuscript writing**. Software from this project were deposited in GitHub: [scATFR](https://github.com/hmutpw/scATFR) and [PUIC](https://github.com/hmutpw/PUIC/).
+\* First author, mainly responsible for **study design**, **software development**, **bioinformatics analysis**, **visualization** and **manuscript writing**. Software from this project were deposited in GitHub: [https://github.com/hmutpw/scATFR](https://github.com/hmutpw/scATFR) and [https://github.com/hmutpw/PUIC](https://github.com/hmutpw/PUIC/).
 
 #### II. Constructing the RNA subcellular localization landscape of embryonic stem cells (Manuscript in preparation).
 
@@ -38,17 +38,17 @@ Here lists several studies for the last 5 years:
 
 #### III. Single-cell sequencing reveals the critical role of alternative splicing in the hematopoietic stem cell formation (2022 ***Sci Adv***)
 
-\* Co-first author, mainly responsible for **bioinformatics analysis**, **visualization** and **manuscript writing**. The code was deposited in GitHub:[scAS](https://github.com/hmutpw/scAS/).
+\* Co-first author, mainly responsible for **bioinformatics analysis**, **visualization** and **manuscript writing**. The code was deposited in GitHub:[https://github.com/hmutpw/scAS/](https://github.com/hmutpw/scAS/).
 
 #### IV. *hnRNPLL* controls pluripotency exit of embryonic stem cells by modulating alternative splicing of *Tbx3* and *Bptf* (2021 ***EMBO J***)
 
 \* Co-first author, mainly responsible for **bioinformatics analysis** and **visualization**.
 
-#### V. Depicting the dynamic activity of autophagy at transcriptome level during the human stem cell differentiation (2018, 2019 ***Autophagy***)
+#### V. Depicting the dynamic activity of autophagy at transcriptome level during the human stem cell differentiation (2018 & 2019, ***Autophagy***)
 
 \* First author, mainly responsible for **bioinformatics analysis**, **visualization** and **manuscript writing**.
 
-#### VI. Construction of the RNA subcellular localization resources. (2017, 2021 ***Nucleic Acids Res***)
+#### VI. Construction of the RNA subcellular localization resources. (2017 & 2021, ***Nucleic Acids Res***)
 
 \* Co-first author, mainly responsible for **data collecting**, **visualization**.
 
@@ -97,3 +97,10 @@ Stem cell biology
 14. Deng Wu, Yan Huang, Juanjuan Kang, Kongning Li, Xiaoman Bi, Ting Zhang, Nana Jin, Yongfei Hu, **Puwen Tan**, Lu Zhang, Ying Yi, Wenjun Shen, Jian Huang, Xiaobo Li, Xia Li, Jianzhen Xu, Dong Wang. ncRDeathDB: A comprehensive bioinformatics resource for deciphering network organization of the ncRNA-mediated cell death system. ***Autophagy***. 2015;11(10):1917-26. [Full-text](https://doi.org/10.1080/15548627.2015.1089375)
 15. Liqiang Wang, Kun Qian, Yan Huang, Nana Jin, Hongyan Lai, Ting Zhang, Chunhua Li, Chunrui Zhang, Xiaoman Bi, Deng Wu, Changliang Wang, Hao Wu, **Puwen Tan**, Jianping Lu, Liqun Chen, Kongning Li, Xia Li, Dong Wang. SynBioLGDB: a resource for experimentally validated logic gates in synthetic biology. ***Sci Rep***. 2015 Jan 28;5:8090. [Full-text](https://www.nature.com/articles/srep08090)
 16. Xiaomeng Zhang, Deng Wu, Liqun Chen, Xiang Li, Jinxurong Yang, Dandan Fan, Tingting Dong, Mingyue Liu, **Puwen Tan**, Jintian Xu, Ying Yi, Yuting Wang, Hua Zou, Yongfei Hu, Kaili Fan, Juanjuan Kang, Yan Huang, Zhengqiang Miao, Miaoman Bi, Nana Jin, Kongning Li, Xia Li, Jianzhen Xu, Dong Wang. RAID: a comprehensive resource for human RNA-associated (RNA–RNA/RNA–protein) interaction. ***RNA***. 2014 Jul;20(7):989-93. [Full-text](https://rnajournal.cshlp.org/content/20/7/989)
+
+### 7. Other meterials:
+
+ResearchGate: [https://www.researchgate.net/profile/Puwen-Tan](https://www.researchgate.net/profile/Puwen-Tan)
+
+Google Scholar: [Puwen Tan] (https://scholar.google.co.uk/citations?hl=en&pli=1&user=WnzYYR4AAAAJ)
+
