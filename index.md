@@ -8,7 +8,7 @@ Tel: (+86) 182 4606 0545
 
 ### Summary:
 
-Puwen Tan is a highly-motivated bioinformatician with strong interest in developing methods to uncover the cell identity from multi-omics data. He is proficient in a variety of skills including single-cell RNA-seq analysis, data visualization and R package development. For the past 5 years, he focused on exploring the mechanism of hematopoietic stem cell differentiation (2017 Nat Commun, 2018 Autophagy, 2021 Cell Stem Cell, and 2022 Sci Adv) using bioinformatics methods.
+Puwen Tan is a highly-motivated bioinformatician with strong interest in developing methods to uncover the cell identity from multi-omics data. He is proficient in a variety of skills including **single-cell RNA-seq analysis**, **data visualization** and **R package development**. For the past 5 years, he focused on exploring the mechanism of hematopoietic stem cell differentiation (2017 *Nat Commun*, 2018 *Autophagy*, 2021 *Cell Stem Cell*, and 2022 *Sci Adv*) using bioinformatics methods.
 
 ### Education:
 
