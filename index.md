@@ -5,6 +5,7 @@ PhD in bioinformaticas, Southern Medical University, Guangdong, China, 510515
 Email: bioinfo_wen@163.com
 
 #### Summary:
+
 Puwen Tan is a highly-motivated bioinformatician with strong interest in uncovering novel mechanisms of disease. Proficient in a variety of skills including but not limited to single-cell RNA-seq analysis, data visualization and R package development.
 
 #### Education:
@@ -17,6 +18,8 @@ Puwen Tan is a highly-motivated bioinformatician with strong interest in uncover
 
 #### Skills:
 
+1. Extensive experience in next generation sequencing (including bulk and single-cell RNA-seq) and long read sequencing (eg, Nanopore-seq) analysis.
+2. 
 
 
 
