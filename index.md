@@ -4,7 +4,7 @@
 
 ## Puwen Tan
 
-PhD in bioinformaticas, Southern Medical University, Guangzhou, Guangdong, China, 510515
+PhD in bioinformatics, Southern Medical University, Guangzhou, Guangdong, China, 510515
 
 Email: bioinfo_wen@163.com
 
@@ -12,7 +12,7 @@ Tel: (+86) 182 4606 0545
 
 ### 1. Summary:
 
-**Puwen Tan** is a highly-motivated bioinformatician with strong interests in developing methods to uncover the cell identity and characterize the cell state transition from multiple perspectives. He is proficient in a variety of skills including **single-cell RNA-seq analysis**, **data visualization** and **R package development**. For the past 5 years, he mainly focused on exploring the cellular heterogeneity of hematopoietic stem cells (2017 *Nat Commun*, 2018 *Autophagy*, 2021 *Cell Stem Cell*, and 2022 *Sci Adv*) using bioinformatics methods. Most recently, he is looking for a postdoctoral position in computational biology which focuses on developing single-cell multi-omics analysis methods.
+**Puwen Tan** is a highly-motivated bioinformatician with strong interests in developing methods to uncover the cell identity and characterize the cell state transition from multiple perspectives. He is proficient in a variety of skills including **single-cell RNA-seq analysis**, **data visualization**, and **R package development**. For the past 5 years, he mainly focused on exploring the cellular heterogeneity of hematopoietic stem cells (2017 *Nat Commun*, 2018 *Autophagy*, 2021 *Cell Stem Cell*, and 2022 *Sci Adv*) using bioinformatics methods. Most recently, he is looking for a postdoctoral position in computational biology which focuses on developing single-cell multi-omics analysis methods.
 
 ### 2. Education:
 
@@ -31,31 +31,31 @@ Tel: (+86) 182 4606 0545
 
 ### 4. Academic experience:
 
-Here lists main studies for the last 5 years:
+Here list the main studies for the last 5 years:
 
 #### I. A computational framework for transcription factor activity analysis (submitted to ***Nat Commun***).
 
-\* First author, mainly responsible for **study design**, **software development**, **bioinformatics analysis**, **visualization** and **manuscript writing**. Software from this project were deposited in GitHub: [https://github.com/hmutpw/scATFR](https://github.com/hmutpw/scATFR) and [https://github.com/hmutpw/PUIC](https://github.com/hmutpw/PUIC/).
+\* First author, mainly responsible for **study design**, **software development**, **bioinformatics analysis**, **visualization** and **manuscript writing**. Softwares from this project were deposited in GitHub: [https://github.com/hmutpw/scATFR](https://github.com/hmutpw/scATFR) and [https://github.com/hmutpw/PUIC](https://github.com/hmutpw/PUIC/).
 
 #### II. Constructing the RNA subcellular localization landscape of embryonic stem cells (Manuscript in preparation).
 
-\* Co-first author, mainly responsible for **bioinformatics analysis**, **visualization** and **manuscript writing**.
+\* Co-first author, mainly responsible for **bioinformatics analysis**, **visualization**, and **manuscript writing**.
 
 #### III. Single-cell sequencing reveals the critical role of alternative splicing in the hematopoietic stem cell formation (2022 ***Sci Adv***)
 
-\* Co-first author, mainly responsible for **bioinformatics analysis**, **visualization** and **manuscript writing**. The code was deposited in GitHub:[https://github.com/hmutpw/scAS/](https://github.com/hmutpw/scAS/).
+\* Co-first author, mainly responsible for **bioinformatics analysis**, **visualization**, and **manuscript writing**. The code was deposited in GitHub:[https://github.com/hmutpw/scAS/](https://github.com/hmutpw/scAS/).
 
 #### IV. *hnRNPLL* controls pluripotency exit of embryonic stem cells by modulating alternative splicing of *Tbx3* and *Bptf* (2021 ***EMBO J***)
 
-\* Co-first author, mainly responsible for **bioinformatics analysis** and **visualization**.
+\* Co-first author, mainly responsible for **bioinformatics analysis**, and **visualization**.
 
 #### V. Depicting the dynamic activity of autophagy at transcriptome level during the human stem cell differentiation (2018 & 2019, ***Autophagy***)
 
-\* First author, mainly responsible for **bioinformatics analysis**, **visualization** and **manuscript writing**.
+\* First author, mainly responsible for **bioinformatics analysis**, **visualization**, and **manuscript writing**.
 
 #### VI. Construction of the RNA subcellular localization resources. (2017 & 2021, ***Nucleic Acids Res***)
 
-\* Co-first author, mainly responsible for **data collecting**, **visualization**.
+\* Co-first author, mainly responsible for **data collecting** and **visualization**.
 
 #### Graphical Abstract
 
