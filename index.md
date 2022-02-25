@@ -24,9 +24,10 @@ Tel: (+86) 182 4606 0545
 
 ### 3. Skills:
 
-1. Extensive experience in analysing next generation sequencing (including bulk and single-cell RNA-seq) and long read sequencing (eg, Nanopore-seq) data.
-2. Proficient in using R language for data analysis, visualization and software development.
-3. Fluent with English writing and speaking.
+1. Strong programming skills in using R language for statistical analysis, visualization and software development.
+2. Proficient in high-throughput sequencing data (including: bulk & single-cell RNA-seq, ChIP-seq, CLIP-seq, and single-cell Nanopore-seq) analysis .
+3. Extensive collaboration experiences with biologists.
+4. Fluent with English writing and speaking.
 
 ### 4. Academic experience:
 
@@ -62,11 +63,11 @@ Here lists main studies for the last 5 years:
 
 ### 5. Research Interests:
 
-Single-cell omics
+Single-cell multi-omics
 
 Machine learning
 
-Software developing
+Software development
 
 Stem cell biology
 
@@ -103,6 +104,7 @@ Stem cell biology
 16. Xiaomeng Zhang, Deng Wu, Liqun Chen, Xiang Li, Jinxurong Yang, Dandan Fan, Tingting Dong, Mingyue Liu, **Puwen Tan**, Jintian Xu, Ying Yi, Yuting Wang, Hua Zou, Yongfei Hu, Kaili Fan, Juanjuan Kang, Yan Huang, Zhengqiang Miao, Miaoman Bi, Nana Jin, Kongning Li, Xia Li, Jianzhen Xu, Dong Wang. RAID: a comprehensive resource for human RNA-associated (RNA–RNA/RNA–protein) interaction. ***RNA***. 2014 Jul;20(7):989-93. [Full-text](https://rnajournal.cshlp.org/content/20/7/989)
 
 ### 7. Other meterials:
+GitHub: [https://github.com/hmutpw](https://github.com/hmutpw)
 
 ResearchGate: [https://www.researchgate.net/profile/Puwen-Tan](https://www.researchgate.net/profile/Puwen-Tan)
 
