@@ -45,21 +45,25 @@ Here list the main studies for the last 5 years:
 
 \* Co-first author, mainly responsible for **bioinformatics analysis**, **visualization**, and **manuscript writing**. The code was deposited in GitHub:[https://github.com/hmutpw/scAS/](https://github.com/hmutpw/scAS/).
 
+![SA Abstract](./SA_figure.png)
+
 #### IV. *hnRNPLL* controls pluripotency exit of embryonic stem cells by modulating alternative splicing of *Tbx3* and *Bptf* (2021 ***EMBO J***)
 
 \* Co-first author, mainly responsible for **bioinformatics analysis**, and **visualization**.
+
+![EMBOJ Abstract](./EMBOJ_figure.png)
 
 #### V. Depicting the dynamic activity of autophagy at transcriptome level during the human stem cell differentiation (2018 & 2019, ***Autophagy***)
 
 \* First author, mainly responsible for **bioinformatics analysis**, **visualization**, and **manuscript writing**.
 
+![Autophagy Abstract](./Autophagy_figure.png)
+
 #### VI. Construction of the RNA subcellular localization resources. (2017 & 2021, ***Nucleic Acids Res***)
 
 \* Co-first author, mainly responsible for **data collecting** and **visualization**.
 
-#### Graphical Abstract
-
-![Graphical Abstract](./Figure_eng.png)
+![NAR Abstract](./NAR_figure.png)
 
 ### 5. Research Interests:
 
