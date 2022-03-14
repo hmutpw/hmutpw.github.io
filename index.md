@@ -35,15 +35,19 @@ Here list the main studies for the last 5 years:
 
 #### I. A computational framework for transcription factor activity analysis (submitted to ***Nat Commun***).
 
+This study developed an integrated computational framework for gene regulatory network inference and transcription factor activity estimation from single-cell RNA sequencing data. In bref, we utilized an entropy-based algorithm to infer the weighted regulatory relationship between regulators and targets by decomposing the unique information from multivariate information. This framework Embed several functions such as transcriptional factor activity quantification, dimensionality reduction, cell-type-specific regulon analysis, pathway enrichment analysis, and visualization. This work aims to establish a comprehensive single-cell analysis framework for transcription factors just like other commonly used single-cell pipelines such as Seurat.
+
 \* First author, mainly responsible for **study design**, **software development**, **bioinformatics analysis**, **visualization** and **manuscript writing**. Softwares from this project were deposited in GitHub: [https://github.com/hmutpw/scATFR](https://github.com/hmutpw/scATFR) and [https://github.com/hmutpw/PUIC](https://github.com/hmutpw/PUIC/).
 
 #### II. Constructing the RNA subcellular localization landscape of embryonic stem cells (Manuscript in preparation).
+
+This study comprehensively characterized the subcellular localization pattern of RNA moleculars in embryonic stem cells. We identified 
 
 \* Co-first author, mainly responsible for **bioinformatics analysis**, **visualization**, and **manuscript writing**.
 
 #### III. Single-cell sequencing reveals the critical role of alternative splicing in the hematopoietic stem cell formation (2022 ***Sci Adv***)
 
-\* Co-first author, mainly responsible for **bioinformatics analysis**, **visualization**, and **manuscript writing**. The code was deposited in GitHub:[https://github.com/hmutpw/scAS/](https://github.com/hmutpw/scAS/).
+\* Co-first author, mainly responsible for **study design**, **bioinformatics analysis**, **visualization**, and **manuscript writing**. The code was deposited in GitHub:[https://github.com/hmutpw/scAS/](https://github.com/hmutpw/scAS/).
 
 ![SA Abstract](./SA_figure.png)
 
