@@ -35,17 +35,19 @@ Here list the main studies for the last 5 years:
 
 #### I. A computational framework for transcription factor activity analysis (submitted to ***Nat Commun***).
 
-This study developed an integrated computational framework for gene regulatory network inference and transcription factor activity estimation from single-cell RNA sequencing data. In bref, we utilized an entropy-based algorithm to infer the weighted regulatory relationship between regulators and targets by decomposing the unique information from multivariate information. This framework Embed several functions such as transcriptional factor activity quantification, dimensionality reduction, cell-type-specific regulon analysis, pathway enrichment analysis, and visualization. This work aims to establish a comprehensive single-cell analysis framework for transcription factors just like other commonly used single-cell pipelines such as Seurat.
+This research developed an integrated computational framework for gene regulatory network inference and transcription factor activity estimation from single-cell RNA sequencing data. In bref, we utilized an entropy-based algorithm to infer the weighted regulatory relationship between regulators and targets by decomposing the unique information from multivariate information. This framework Embed several functions such as transcriptional factor activity quantification, dimensionality reduction, cell-type-specific regulon analysis, pathway enrichment analysis, and visualization. This work aims to establish a comprehensive single-cell analysis framework for transcription factors just like other commonly used single-cell pipelines such as Seurat.
 
 \* First author, mainly responsible for **study design**, **software development**, **bioinformatics analysis**, **visualization** and **manuscript writing**. Softwares from this project were deposited in GitHub: [https://github.com/hmutpw/scATFR](https://github.com/hmutpw/scATFR) and [https://github.com/hmutpw/PUIC](https://github.com/hmutpw/PUIC/).
 
 #### II. Constructing the RNA subcellular localization landscape of embryonic stem cells (Manuscript in preparation).
 
-This study comprehensively characterized the subcellular localization pattern of RNA moleculars in embryonic stem cells. We identified 
+This research comprehensively characterized the subcellular localization pattern of RNA moleculars in embryonic stem cells. We identified several gene showed distinc localization pattern among five different subcellular locations. Meanwhile, we explored the subcellular localization pattern of alternative splicing events between cytoplasm and nucleus, and predicted several RNA binding proteins that potentional regulate the nuclear export.
 
 \* Co-first author, mainly responsible for **bioinformatics analysis**, **visualization**, and **manuscript writing**.
 
 #### III. Single-cell sequencing reveals the critical role of alternative splicing in the hematopoietic stem cell formation (2022 ***Sci Adv***)
+
+This research constructed an isoform-based transcriptional atlas of the murine endothelial-to-hematopoietic stem cell using single-cell full-length RNA sequencing data. In brief, we comprehensively described the isoform diversity and alternative splicing landscape during hematopoietic stem cell formation. Then, we also identified hundreds of stage-specific isoforms that potentially affect the HSC formation and validated their expression using single-cell Nanopore sequencing of full-length transcripts. Subsequently, in vitro knockdown experiments showed that knockdown of some hemogenic-specific isoforms indeed affects the generation of  HSCs. Next, motif enrichment combined with knockout experiments confirmed that the RNA-binding protein (RBP), Srsf2, could affect the specialization of endothelial cells into hematopoietic stem cells by regulating the AS of key transcription factors such as Runx1 and Myb. 
 
 \* Co-first author, mainly responsible for **study design**, **bioinformatics analysis**, **visualization**, and **manuscript writing**. The code was deposited in GitHub:[https://github.com/hmutpw/scAS/](https://github.com/hmutpw/scAS/).
 
@@ -53,17 +55,23 @@ This study comprehensively characterized the subcellular localization pattern of
 
 #### IV. *hnRNPLL* controls pluripotency exit of embryonic stem cells by modulating alternative splicing of *Tbx3* and *Bptf* (2021 ***EMBO J***)
 
+This research revealed that RNA binding protein *hnRNPLL* regulates the embryonic stem cell exit from pluripotency by modulating the alternative splicing of some key transcription factors that maintain the pluripotency.
+
 \* Co-first author, mainly responsible for **bioinformatics analysis**, and **visualization**.
 
 ![EMBOJ Abstract](./EMBOJ_figure.png)
 
 #### V. Depicting the dynamic activity of autophagy at transcriptome level during the human stem cell differentiation (2018 & 2019, ***Autophagy***)
 
+This research investigated the dynamic patterns of autophagy-related genes during human fetal digestive tract development using single-cell RNA sequencing data. Meanwhile, we also identified several autophagy-related genes that potentially regulate monocytic-granulocytic differentiation.
+
 \* First author, mainly responsible for **bioinformatics analysis**, **visualization**, and **manuscript writing**.
 
 ![Autophagy Abstract](./Autophagy_figure.png)
 
 #### VI. Construction of the RNA subcellular localization resources. (2017 & 2021, ***Nucleic Acids Res***)
+
+These studies constructed and updated the RNA subcellular localization database for transcriptome level.
 
 \* Co-first author, mainly responsible for **data collecting** and **visualization**.
 
