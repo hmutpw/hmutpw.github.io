@@ -129,5 +129,5 @@ ResearchGate: [https://www.researchgate.net/profile/Puwen-Tan](https://www.resea
 
 Google Scholar: [Puwen Tan](https://scholar.google.co.uk/citations?hl=en&pli=1&user=WnzYYR4AAAAJ)
 
-Academic transcripts: [English version](./transcript_English.jpg)    [Chinese version (中文成绩单)](./transcript_Chinese.jpg)
+Academic transcripts: [English version](./transcript_English.jpg)    [中文成绩单](./transcript_Chinese.jpg)
 
