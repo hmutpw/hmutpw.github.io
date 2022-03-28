@@ -90,8 +90,10 @@ Hematopoietic stem cell
 
 ### 6. Full list of Publications:
 
+(†: equally controbution; \*: corresponding author)
+
 #### 2022
-1. Fang Wang†, **Puwen Tan†**, Pengcheng Zhang†, Yue Ren†, Jie Zhou, Yunqiao Li, Siyuan Hou, Shuaili Li, Linlin Zhang, Yanni Ma, Chaojie Wang, Wanbo Tang, Xiaoshuang Wang, Yue Huo, Yongfei Hu, Tianyu Cui, Chao Niu, Dong Wang*, Bing Liu*, Yu Lan*, Jia Yu*. Single-cell architecture and functional requirement of alternative splicing during hematopoietic stem cell formation. ***Sci Adv***. 2022 Jan 7;8(1):eabg5369. [Full-text](https://www.science.org/doi/10.1126/sciadv.abg5369)
+1. Fang Wang†, **Puwen Tan†**, Pengcheng Zhang†, Yue Ren†, Jie Zhou, Yunqiao Li, Siyuan Hou, Shuaili Li, Linlin Zhang, Yanni Ma, Chaojie Wang, Wanbo Tang, Xiaoshuang Wang, Yue Huo, Yongfei Hu, Tianyu Cui, Chao Niu, Dong Wang\*, Bing Liu\*, Yu Lan\*, Jia Yu\*. Single-cell architecture and functional requirement of alternative splicing during hematopoietic stem cell formation. ***Sci Adv***. 2022 Jan 7;8(1):eabg5369. [Full-text](https://www.science.org/doi/10.1126/sciadv.abg5369)
 
 #### 2021
 2. Juanjuan Kang, Qiang Tang, Jun He, Le Li, Nianling Yang, Shuiyan Yu, Mengyao Wang, Yuchen Zhang, Jiahao Lin, Tianyu Cui, Yongfei Hu, **Puwen Tan**, Jun Cheng, Hailong Zheng, Dong Wang, Xi Su, Wei Chen, Yan Huang. RNAInter v4.0: RNA interactome repository with redefined confidence scoring system and improved accessibility. ***Nucleic Acids Res***. 2021 Oct 30;gkab997. [Full-text](https://doi.org/10.1093/nar/gkab997)
