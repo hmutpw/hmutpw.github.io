@@ -91,8 +91,10 @@ Hematopoietic stem cell
 ### 6. Full list of Publications:
 
 ( †: equally contribution; \*: corresponding author )
-#### 2023
+#### 2024
 1. Fanqi Zhou†, **Puwen Tan†**, Siqi Liu, Le Chang, Jiabin Yang, Mengyao Sun, Yuehong Guo, Yanmin Si, Dong Wang\*, Jia Yu\*, Yanni Ma\*. Subcellular RNA distribution and its change during human embryonic stem cell differentiation. ***Stem Cell Reports***. 2024 Jan 9;19(1):126-140.[Full-text](https://doi.org/10.1016/j.stemcr.2023.11.007).
+
+#### 2023
 2. Tianyuan Liu†, Bohao Zou†, Manman He†, Yongfei Hu, Yiying Dou, Tianyu Cui, **Puwen Tan**, Shaobin Li, Shuan Rao, Yan Huang, Sixi Liu\*, Kaican Cai\*, Dong Wang\*. LncReader: identification of dual functional long noncoding RNAs using a multi-head self-attention mechanism. ***Brief Bioinform***. 2023 Jan 19;24(1):bbac579.[Full-text](https://doi.org/10.1093/bib/bbac579).
 
 #### 2022
